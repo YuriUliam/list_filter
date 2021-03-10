@@ -3,7 +3,7 @@
 ## Proposta
 
 Desafio 2 do Ignite, Rocketseat!<br>
-Nela eu estou filtrando os valores numéricos de uma lista qualquer!<br>
+Nela eu estou filtrando os valores numéricos de uma lista qualquer e retornando a quantidade!<br>
 
 _OBS.: todos os valores devem ser representados em string!_ `(ex.: "valor")`
 
