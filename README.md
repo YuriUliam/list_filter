@@ -2,7 +2,7 @@
 
 ## Proposta
 
-Desafio 1 do Ignite, Rocketseat!<br>
+Desafio 2 do Ignite, Rocketseat!<br>
 Nela eu estou filtrando os valores numéricos de uma lista qualquer!<br>
 
 _OBS.: todos os valores devem ser representados em string!_ `(ex.: "valor")`
